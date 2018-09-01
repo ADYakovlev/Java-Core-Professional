@@ -1,2 +1,2 @@
 # Java-Core-Professional
-Generic,  Databases Data input-output, multithreading.
+Generic,  Databases, Data input-output, multithreading.
